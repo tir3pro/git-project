@@ -5,3 +5,4 @@ echo 'Hello new branch!';
 =======
 echo 'Hello Master git branch!';
 >>>>>>> master
+echo 'Hello Master remote!';
